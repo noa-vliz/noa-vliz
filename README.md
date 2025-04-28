@@ -24,3 +24,5 @@ I initially wanted to learn C but struggled with memory management and segmentat
 I'm passionate about setting up development environments and customizing my editors for optimal workflow. There's something deeply satisfying about crafting the perfect environment that suits your needs!
 
 Feel free to connect with me on Twitter: [@noa_vliz](https://twitter.com/noa_vliz)
+
+https://noa-vliz.site ← see also!
