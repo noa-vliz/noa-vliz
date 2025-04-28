@@ -25,4 +25,4 @@ I'm passionate about setting up development environments and customizing my edit
 
 Feel free to connect with me on Twitter: [@noa_vliz](https://twitter.com/noa_vliz)
 
-https://noa-vliz.site ← see also!
+https://noa-vliz.site ← Check this out too!
