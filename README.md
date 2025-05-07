@@ -4,20 +4,18 @@ Hello there! I'm noa, also known as noa-vliz or chocolatey or ruka. I'm a techno
 
 ## What I Do
 - Playing around with the Rust programming language
-- Configuring and customizing Emacs and Neovim
+- Configuring and customizing Fluxbox and vim
 - Writing fiction in my spare time
 
 ## My Environment
-- **OS**: Dual-booting Arch Linux and Windows
-- **Editor of choice**: Emacs
-- **Alternative editor**: Neovim
+- **OS**: Void Linux with Fluxbox
+- **Editor of choice**: Vim
 
 ## Tech Stack
 - Rust
 - Linux
-- Emacs/Neovim
-- Arch Linux
-- Windows
+- Vim
+- Void Linux
 
 I initially wanted to learn C but struggled with memory management and segmentation faults, so I switched to Rust. While I enjoy the language itself, I find the community can be a bit too zealous at times.
 
