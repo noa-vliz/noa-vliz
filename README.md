@@ -13,6 +13,7 @@ Hello there! I'm noa, also known as noa-vliz or chocolatey or ruka. I'm a techno
 
 ## Tech Stack
 - Rust
+- Zig
 - Linux
 - Vim
 - Void Linux
