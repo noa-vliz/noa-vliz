@@ -18,7 +18,7 @@ Hello there! I'm noa, also known as noa-vliz or chocolatey or ruka. I'm a techno
 - Vim
 - Void Linux
 
-I initially wanted to learn C but struggled with memory management and segmentation faults, so I switched to Rust. While I enjoy the language itself, I find the community can be a bit too zealous at times.
+I initially wanted to learn C but struggled with memory management and segmentation faults, so I switched to Zig. While I enjoy the language itself, I find the community can be a bit too zealous at times.
 
 I'm passionate about setting up development environments and customizing my editors for optimal workflow. There's something deeply satisfying about crafting the perfect environment that suits your needs!
 
