@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! I'm noa, also known as noa-vliz or chocolatey or ruka. I'm a technology enthusiast who enjoys tinkering with various tools and systems.
+Hello there! I'm noa, also known as noa-vliz or ruka. I'm a technology enthusiast who enjoys tinkering with various tools and systems.
 
 ## What I Do
 - Playing around with the Rust programming language
